@@ -1,0 +1,51 @@
+#page
+{
+    max-width: 1400px;
+    min-width: 720px;
+    margin: 10px auto 10px auto;
+}
+
+body
+{
+    background-image: url("hummingbird.jpg");
+   
+}
+h1
+{
+    font-size: 4em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+p
+{
+    font-size: 20px;
+    
+}
+
+.nav
+{
+    font-weight: bold;
+    background-color: rgb(57, 78, 196);
+    display: inline;
+    float: center;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding: 10px 30px 10px 30px;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(71,68,235);
+    border-radius: 70%;
+    
+    
+}
+.navbar
+{
+    padding: 10px;
+    margin-left: 1px;
+    margin-right: 1px;
+    text-align: center;
+    
+}
